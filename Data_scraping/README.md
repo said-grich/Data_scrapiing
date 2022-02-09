@@ -24,5 +24,7 @@ collecter les comment des hotels sous forme:
 
 
 ---------------------->twitter:
+TWINT - Twitter Intelligence Tool
+No authentication. No API. No limits.
 collecter les twits des hotels sous forme:
 {'name':reviewer_name,'nationality':rv_nationality,'date':date,'comment':text}
